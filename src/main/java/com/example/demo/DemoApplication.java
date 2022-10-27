@@ -15,7 +15,7 @@ public class DemoApplication {
 
     @PostConstruct
     public void start(){
-        System.out.println("Hello World");
+        System.out.println("Hello World for jenkins");
     }
 
 }

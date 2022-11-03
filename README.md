@@ -1,4 +1,4 @@
-# github-jenkins-connection
+# github-jenkins-connections
 
 
 
@@ -29,10 +29,6 @@ C:\\Users\\caner\\Downloads\\maven-deploy.bat
     }
 }
 }
-
-
-
-
 
 # tomcat-users.xml :   <user username="<input must add>" password="<input must add>" roles="manager-script"/>
 
